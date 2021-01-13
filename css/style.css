@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    color: dimgray;
+}
+
+.bg-color-pn{
+    background-color: #FFFBF0;
+    padding-bottom: 5em;
+}
+
+ul{
+    font-weight: bold;
+}
+
+.front-line h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+#front-h1{
+    color: #FABE4C;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.front-h11{
+    color: #363958;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+.btn-color{
+    background-image: linear-gradient(#a4bb4a , #8AA521);
+    color: white;
+}
+
+.border-n, .btn-color{
+    border: none;
+}
+
+.card-div-h{
+    background-color: #F1F1F1;
+    height: 300px;
+    border-radius: 20px;
+}
