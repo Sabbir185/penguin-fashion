@@ -53,7 +53,11 @@ ul{
 }
 
 footer{
-    background-color:#d7e0b4;
+    background-color:#D7E0B4;
     margin-top: 7em;
 }
 
+
+.dim-light{
+    background-color: #F1F1F1;
+}
