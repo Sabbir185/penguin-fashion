@@ -20,7 +20,7 @@ ul{
     font-weight: 800;
 }
 
-#front-h1{
+.front-h1{
     color: #FABE4C;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
@@ -38,8 +38,4 @@ ul{
     border: none;
 }
 
-.card-div-h{
-    background-color: #F1F1F1;
-    height: 300px;
-    border-radius: 20px;
-}
+
