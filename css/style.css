@@ -4,6 +4,11 @@ body{
 
 p{
     color: dimgray;
+    font-size: 1em;
+}
+
+.bold-tt{
+    font-weight: 700;
 }
 
 .bg-color-pn{
