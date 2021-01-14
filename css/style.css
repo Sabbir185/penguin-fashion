@@ -43,5 +43,17 @@ ul{
     border: none;
 }
 
+.filled{
+    color: goldenrod;
+}
 
+.review-bg{
+    background-color: #fcf2d9;
+    border-radius: 20px;
+}
+
+footer{
+    background-color:#d7e0b4;
+    margin-top: 7em;
+}
 
